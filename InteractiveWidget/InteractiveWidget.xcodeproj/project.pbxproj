@@ -21,6 +21,7 @@
 		AD43D3CE2A36195D0054172F /* TaskModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD43D3CC2A36195D0054172F /* TaskModel.swift */; };
 		AD43D3D02A361BF80054172F /* ToggleStateIntent.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD43D3CF2A361BF80054172F /* ToggleStateIntent.swift */; };
 		AD43D3D12A361BF80054172F /* ToggleStateIntent.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD43D3CF2A361BF80054172F /* ToggleStateIntent.swift */; };
+		F3EBD46F2AA4A60C00D0B5FD /* TestScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3EBD46E2AA4A60C00D0B5FD /* TestScreen.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -63,6 +64,7 @@
 		AD43D3C42A3611070054172F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		AD43D3CC2A36195D0054172F /* TaskModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskModel.swift; sourceTree = "<group>"; };
 		AD43D3CF2A361BF80054172F /* ToggleStateIntent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToggleStateIntent.swift; sourceTree = "<group>"; };
+		F3EBD46E2AA4A60C00D0B5FD /* TestScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestScreen.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +111,7 @@
 			children = (
 				AD43D3A42A3610EE0054172F /* InteractiveWidgetApp.swift */,
 				AD43D3A62A3610EE0054172F /* ContentView.swift */,
+				F3EBD46E2AA4A60C00D0B5FD /* TestScreen.swift */,
 				AD43D3A82A3610EF0054172F /* Assets.xcassets */,
 				AD43D3AA2A3610EF0054172F /* InteractiveWidget.entitlements */,
 				AD43D3AB2A3610EF0054172F /* Preview Content */,
@@ -250,6 +253,7 @@
 				AD43D3CD2A36195D0054172F /* TaskModel.swift in Sources */,
 				AD43D3A72A3610EE0054172F /* ContentView.swift in Sources */,
 				AD43D3A52A3610EE0054172F /* InteractiveWidgetApp.swift in Sources */,
+				F3EBD46F2AA4A60C00D0B5FD /* TestScreen.swift in Sources */,
 				AD43D3D02A361BF80054172F /* ToggleStateIntent.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
